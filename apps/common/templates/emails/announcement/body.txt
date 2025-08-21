@@ -1,0 +1,9 @@
+Estimado/a {{ user.first_name }},
+
+Tenemos un nuevo anuncio para ti:
+
+{{ announcement_text }}
+
+Gracias por ser parte de nuestra comunidad.
+
+El equipo de Condominio.

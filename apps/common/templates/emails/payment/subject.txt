@@ -1,0 +1,1 @@
+Recordatorio de pago para {{ user.first_name }}

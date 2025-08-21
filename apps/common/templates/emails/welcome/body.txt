@@ -1,0 +1,7 @@
+Hola {{ user.username }}
+
+Bienvenido al sistema del condominio.
+Tu nombre de usuario es: {{ user.username }}
+Tu contraseña es: {{ password }}
+
+¡Esperamos que disfrutes de nuestros servicios!

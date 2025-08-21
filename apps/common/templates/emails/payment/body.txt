@@ -1,0 +1,9 @@
+Hola {{ user.first_name }},
+
+Este es un recordatorio amable de que tu pago correspondiente al mes {{ month }} aún no ha sido recibido.
+
+Por favor realiza el pago antes del {{ due_date }} para evitar recargos.
+
+Gracias por tu atención.
+
+El equipo de Condominio.
